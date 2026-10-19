@@ -1,12 +1,48 @@
 <div align="center">
+# ⚡ SYSTEM ARCHITECT & INFRASTRUCTURE CORE ⚡
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=CROSSPLAY+NETWORK+ENGINEER;SEN'SMP+INFRASTRUCTURE+ADMIN;CLAN+WARS+%26+PRIVATE+SERVER+GATEWAY;SECURITY+AND+AUTOMATION+SYSTEMS)](https://github.com/s09385861149-Sen)
+<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=s09385861149-Sen&color=00ff66&style=for-the-badge&label=SYSTEM+VISITS)](https://github.com/s09385861149-Sen)
+[![Status](https://img.shields.io/badge/NETWORK-ONLINE_%26_SECURE-00ff66?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/s09385861149-Sen)
+</div>
+---
+### 🌐 ACTIVE COMMUNITY GATES & NETWORKS
+<div align="center">
 
-# ─── 🛠️ SEN'SMP SYSTEM ARCHITECT & INFRASTRUCTURE 🛠️ ───
+| Network / Project | Purpose | Access Link | Status |
+| :--- | :--- | :--- | :--- |
+| **SEN'SMP Private Server** | Core Crossplay & Survival | [🔗 Join Discord](https://discord.gg/YmHT7cBWF6) | `🟢 ONLINE` |
+| **Clan Wars Server** | Competitive & Events Hub | [🔗 Join Discord](https://discord.gg/TWD9ybu53S) | `🟢 ACTIVE` |
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=CORE+SYSTEM+ADMINISTRATOR;CROSSPLAY+NETWORK+ENGINEER;CYBER+SECURITY+%26+ANTI-CHEAT;WELCOME+TO+SEN'SMP+INFRASTRUCTURE)
-
-```gcode
-[SECURITY_LEVEL: ROOT_ACCESS]
-> HOSTING: SEREINHOST NODE 3 (RYZEN 9 9950X)
-> NETWORK: CROSSPLAY (JAVA + BEDROCK) PROTOCOL
-> FIREWALL: ACTIVE (ANTI-DDOS / PACKET INSPECTION)
-> INTEGRITY STATUS: 100% SECURE
+</div>
+---
+### 🔌 DIRECT ACCESS & INTERACTIVE CHANNELS
+<div align="center">
+[![Private Server DC](https://img.shields.io/badge/PRIVATE_SERVER-DISCORD_GATEWAY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YmHT7cBWF6)
+[![Clan Wars DC](https://img.shields.io/badge/CLAN_WARS-COMMUNITY_HUB-FF5733?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TWD9ybu53S)
+</div>
+---
+### 🛠️ TECH STACK & SYSTEM TOOLS
+<div align="center">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-Green?style=for-the-badge&logo=minecraft&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-111111?style=for-the-badge&logo=papermc&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
+---
+### 📊 REAL-TIME TELEMETRY & METRICS
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s09385861149-Sen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s09385861149-Sen&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+---
+### ⚙️ SYSTEM SECURITY & KERNEL STATUS
+```bash
+# SEN NETWORK INFRASTRUCTURE OVERVIEW
+[✓] Core Status: Fully Operational
+[✓] Crossplay Protocol: Java & Bedrock Synchronized
+[✓] Security Firewall: Active Packet Interception & Auth Enforcement
+[✓] Discord Gateways: Connected (Private Server & Clan Wars)
