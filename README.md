@@ -1,35 +1,52 @@
-# ⚡ SYSTEM ARCHITECT & INFRASTRUCTURE CORE
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=CROSSPLAY+NETWORK+ENGINEER;SEN'SMP+INFRASTRUCTURE+ADMIN;CLAN+WARS+%26+PRIVATE+SERVER+GATEWAY)
+<div align="center">
+<!-- Modern Netlify/Vercel Style Glowing Header -->
+# ─── ⚡ SEN NETWORK INFRASTRUCTURE ⚡ ───
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=SYSTEM+ARCHITECT+%26+NETWORK+ENGINEER;HIGH-PERFORMANCE+CROSSPLAY+INFRASTRUCTURE;ENTERPRISE-GRADE+SERVER+SECURITY;WELCOME+TO+SEN'SMP+GATEWAY)
+<p align="center">
+  <b>Architecting secure, high-availability crossplay networks & automated community ecosystem.</b>
+</p>
+<br>
+<!-- Glowing Status Badges -->
+[![Network Status](https://img.shields.io/badge/SYSTEM_STATUS-ALL_SYSTEMS_OPERATIONAL-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](#)
+[![Security Level](https://img.shields.io/badge/SECURITY-ENTERPRISE_PROTECTED-00E5FF?style=for-the-badge&logo=shield&logoColor=black)](#)
+</div>
+<br>
 ---
-### 🌐 ACTIVE COMMUNITY GATES & NETWORKS
+### 🌐 OFFICIAL COMMUNITY GATEWAYS
+<div align="center">
+  <p>Select a portal to access our verified Discord networks:</p>
+  <br>
+  <!-- High-End Interactive Buttons -->
+  <a href="https://discord.gg/YmHT7cBWF6" target="_blank">
+    <img src="https://img.shields.io/badge/🔒_SEN'SMP_PRIVATE_SERVER-ENTER_GATEWAY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Private Server Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/TWD9ybu53S" target="_blank">
+    <img src="https://img.shields.io/badge/⚔️_CLAN_WARS_COMMUNITY-JOIN_HUB-FF4500?style=for-the-badge&logo=discord&logoColor=white" alt="Clan Wars Discord" />
+  </a>
+</div>
+<br>
+---
+### 🎛️ CORE INFRASTRUCTURE & ARCHITECTURE
 
-| Network / Project | Purpose | Access Link | Status |
-| :--- | :--- | :--- | :--- |
-| **SEN'SMP Private Server** | Core Crossplay & Survival | [🔗 Join Discord](https://discord.gg/YmHT7cBWF6) | `🟢 ONLINE` |
-| **Clan Wars Server** | Competitive & Events Hub | [🔗 Join Discord](https://discord.gg/TWD9ybu53S) | `🟢 ACTIVE` |
+| Layer / Domain | Specification / Protocol | System Integrity |
+| :--- | :--- | :--- |
+| **Network Core** | Java 21 & Bedrock Crossplay Engine | `🟢 ACTIVE` |
+| **Security Shield** | Anti-Exploit / Packet Inspection System | `🛡️ PROTECTED` |
+| **Bot Gateway** | Automated Verification & API Webhooks | `⚡ SYNCHRONIZED` |
 
+<br>
 ---
-### 🔌 DIRECT ACCESS & INTERACTIVE CHANNELS
-[![Private Server DC](https://img.shields.io/badge/PRIVATE_SERVER-DISCORD_GATEWAY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YmHT7cBWF6)
-[![Clan Wars DC](https://img.shields.io/badge/CLAN_WARS-COMMUNITY_HUB-FF5733?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TWD9ybu53S)
+### 📊 REAL-TIME TELEMETRY DASHBOARD
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s09385861149-Sen&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&icon_color=00FF88)
+</div>
+<br>
 ---
-### 🛠️ TECH STACK & SYSTEM TOOLS
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-Green?style=for-the-badge&logo=minecraft&logoColor=white)
-![PaperMC](https://img.shields.io/badge/PaperMC-111111?style=for-the-badge&logo=papermc&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
-### 📊 REAL-TIME TELEMETRY & METRICS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s09385861149-Sen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s09385861149-Sen&layout=compact&theme=tokyonight&hide_border=true)
----
-### ⚙️ SYSTEM SECURITY & KERNEL STATUS
+### 🛡️ SYSTEM TERMINAL LOGS
 ```bash
-# SEN NETWORK INFRASTRUCTURE OVERVIEW
-[✓] Core Status: Fully Operational
-[✓] Crossplay Protocol: Java & Bedrock Synchronized
-[✓] Security Firewall: Active Packet Interception & Auth Enforcement
-[✓] Discord Gateways: Connected (Private Server & Clan Wars)
+# SEN NETWORK INFRASTRUCTURE INITIALIZATION
+[SYSTEM] Initializing Crossplay Core Protocols... DONE
+[SAFETY] Anti-Cheat & Packet Interceptor Layers... ACTIVE
+[GATEWAY] Private Server & Clan Wars Links Status... ONLINE
+[RESULT] System Architecture 100% Operational & Secure
